@@ -14,7 +14,8 @@ https://user-images.githubusercontent.com/81825828/180419643-8d0edebe-e3f4-492b-
 After entering the necessary data, you can click <b>Register</b> button
 
 If everything is ok, you will see the corresponding message
-![](../../../../Downloads/2022-07-22_14-12-11.png)
+
+![2022-07-22_14-12-11](https://user-images.githubusercontent.com/81825828/180419932-0610a7d1-0014-453b-8228-66a8d4541c6f.png)
 
 Then you can click the <b>Login</b> here button and you will see the login page
 ![](../../../../Downloads/2022-07-22_14-13-38.png)
