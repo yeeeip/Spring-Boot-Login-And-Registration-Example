@@ -8,7 +8,7 @@ Then you can start the application and hibernate will create three tables in you
 
 In order to start, open your browser and go to http://localhost:8080/api/v1/registration
 Here you will see the following page:
-[2022-07-22_14-08-42](https://user-images.githubusercontent.com/81825828/180419643-8d0edebe-e3f4-492b-92b1-7e2f993974b3.png)
+(https://user-images.githubusercontent.com/81825828/180419643-8d0edebe-e3f4-492b-92b1-7e2f993974b3.png)
 
 
 After entering the necessary data, you can click <b>Register</b> button
