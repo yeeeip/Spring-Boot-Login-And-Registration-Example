@@ -22,13 +22,14 @@ If everything is ok, you will see the corresponding message:
 
 Then you can click the <b>Login</b> here button and you will see the login page:
 
-![2022-07-22_14-16-50 (4)](https://user-images.githubusercontent.com/81825828/180519458-2c48a8fa-4ceb-45ae-9247-1512baeabd8a.png)
+![2022-07-22_14-13-38 (7)](https://user-images.githubusercontent.com/81825828/180520822-ed455dd0-c033-4d75-b338-40bda0f027a1.png)
+
 
 
 Here you can enter the credentials you used while registering to the app and then click the <b>Log in</b> button
 If your credentials are correct, you will see the home page:
 
-
+![2022-07-22_14-16-50 (4)](https://user-images.githubusercontent.com/81825828/180519458-2c48a8fa-4ceb-45ae-9247-1512baeabd8a.png)
 
 
 This page shows welcoming message and your username. At the top of the home page you can also see the <b>Logout</b> button. After clicking it, you will be logged out the app. 
